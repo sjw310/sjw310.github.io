@@ -10,4 +10,4 @@ and thoughts on topics like:
 - Research projects and study summaries
 
 ## 🔗 Visit my blog  
-👉 [https://sjw00310.github.io](https://sjw00310.github.io)
+👉 [https://sjw310.github.io](https://sjw00310.github.io)
