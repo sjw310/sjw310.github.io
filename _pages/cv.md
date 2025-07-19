@@ -13,9 +13,10 @@ Education
 ======
 * B.S. in Mechanical Engineering, Pusan National University, 2026 (expected)
 
+<!--
 Work experience
 ======
-<!--
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
