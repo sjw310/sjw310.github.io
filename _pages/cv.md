@@ -15,6 +15,7 @@ Education
 
 Work experience
 ======
+<!--
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -29,7 +30,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
+-->
 Awards and Scholarships
 ======
 * Jan. 2025: Encouragement Award
@@ -51,7 +52,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -67,3 +69,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
