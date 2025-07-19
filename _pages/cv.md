@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mechanical Engineering, Pusan National University, 2026 (expected)
 
 Work experience
 ======
@@ -31,15 +29,21 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
+
+Awards and Scholarships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan. 2025: Encouragement Award
+  * 2025 F1TENTH PNU-HYUNSONG CHAMPIONSHIP, Pusan National University LINC 3.0 Project, Korea
+* Dec. 2024: Bronze prize
+  * Hanium ICT Mentoring Contest, Ministry of Science and ICT, Korea
+* Sep. 2024: National Science & Technology Scholarship, Korea Student Aid Foundation, Korea
+
+Skills and Techniques
+======
+* Languages: Python, C, Matlab
+* Technologies: Pytorch, Numpy, Pandas, ROS2
+* Tools: VSCode, Conda, Docker
+* OS: Linux (Ubuntu)
 
 Publications
 ======
