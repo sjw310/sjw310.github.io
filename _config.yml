@@ -29,7 +29,8 @@ author:
   location         : "Pusan, Korea"
   employer         : "Pusan National University"
   uri              : # URL
-  email            : "sjw00310@pusan.ac.kr" 
+  email            : "sjw00310@pusan.ac.kr"
+  kaggle           : "sjw310"
 
   # Academic websites
   academia         : # URL
@@ -251,14 +252,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
@@ -278,13 +279,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 
 # Sass/SCSS
