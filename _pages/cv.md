@@ -36,6 +36,7 @@ Awards and Scholarships
   * 2025 F1TENTH PNU-HYUNSONG CHAMPIONSHIP, Pusan National University LINC 3.0 Project, Korea
 * Dec. 2024: Bronze prize
   * Hanium ICT Mentoring Contest, Ministry of Science and ICT, Korea
+  * Topic: Improved ADAS implementation through auxiliary scenarios at intersections
 * Sep. 2024: National Science & Technology Scholarship, Korea Student Aid Foundation, Korea
 
 Skills and Techniques
