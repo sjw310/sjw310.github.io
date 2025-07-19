@@ -22,10 +22,10 @@ repository               : "sjw310/sjw310.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jiwonHI.jpg"
+  avatar           : "Jiwon2.jpg"
   name             : "Jiwon Seong"
   pronouns         : # example: "she/her"  
-  bio              : "I major in Mechanical Engineering ⚙️ and I have interest in\nautonomous driving 🚗 and ML/DL. 🤖"
+  bio              : "I major in Mechanical Engineering ⚙️ and I have interest in autonomous driving 🚗 and ML/DL. 🤖"
   location         : "Pusan, Korea"
   employer         : "Pusan National University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
