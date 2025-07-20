@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<br><br>
+<br>
 
 ## Welcome to Jiwon's page 🌱
-
----
 
 Hello! I'm Jiwon Seong. I'm studying **Mechanical Engineering**⚙️ at Pusan National University.  
 I'm interested in **Autonomous Driving**🚘 and **ML/DL**🤖.
